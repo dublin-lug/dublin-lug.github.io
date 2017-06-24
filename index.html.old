@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" href="styles.css">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dublin Linux User Group</title>
+</head>
+<body>
+  <div id="header">
+      <h1>Dublin Linux User Group</h1>
+      <pre>              a8888b.
+             d888888b.
+             8P"YP"Y88
+             8|o||o|88
+             8'    .88
+             8`._.' Y8.
+            d/      `8b.
+          .dP   .     Y8b.
+         d8:'   "   `::88b.
+        d8"           `Y88b
+       :8P     '       :888
+        8a.    :      _a88P
+      ._/"Yaa_ :    .| 88P|
+ jgs  \    YP"      `| 8P  `.
+ a:f  /     \._____.d|    .'
+      `--..__)888888P`._.'</pre>
+  </div>
+  <div id="main-content">
+      <p>This page is a work in progress!</p>
+      <p>Since we're hosted on GitHub Pages you can submit pull requests to improve this page on our GitHub account: <a href="https://github.com/dublin-lug">github.com/dublin-lug</a></p>
+      <h2>Connect with DLUG</h2>
+      <ul>
+        <li><h3>IRC:</h3> irc.freenode.org #dublug</li>
+        <li><h3>Meetup:</h3> <a href="https://www.meetup.com/Dublin-Linux-User-Group/">meetup.com/Dublin-Linux-User-Group</a>
+      </ul>
+  </div>
+  <div id="footer">
+  </div>
+</body>
+</html>
