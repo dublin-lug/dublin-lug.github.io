@@ -171,6 +171,7 @@ GEM
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
     public_suffix (2.0.5)
+    rake (11.3.0)
     rb-fsevent (0.9.8)
     rb-inotify (0.9.10)
       ffi (>= 0.5.0, < 2)
@@ -194,6 +195,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  rake
 
 BUNDLED WITH
    1.13.7
