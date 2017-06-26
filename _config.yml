@@ -1,0 +1,27 @@
+# Site specific settings
+title: "Dublin LUG Home Page"
+name: "Dublin LUG"
+keywords: "linux, dublin, users group, lug, free software, gnu"
+baseurl: ""
+url: "http://dlug.ie"
+description: "TODO"
+cover: "/assets/img/cover.svg"
+fanpage_id: ""
+
+# Site general settings
+lang: "en"
+ssl: false # It will redirect to https
+
+# Media
+# Just the shortname:
+# facebook: lampiaosec # Rigth
+# facebook: facebook.com/lampiaosec # Wrong
+#disqus: test
+twitter:
+facebook:
+github: //github.com/dublin-lug/
+google:
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:title/
